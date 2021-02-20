@@ -1,0 +1,13 @@
+C:\Users\Rolando\source\repos\GotoRemover\GotoRemover\bin\Debug\netcoreapp3.1\GotoRemover.exe
+C:\Users\Rolando\source\repos\GotoRemover\GotoRemover\bin\Debug\netcoreapp3.1\GotoRemover.deps.json
+C:\Users\Rolando\source\repos\GotoRemover\GotoRemover\bin\Debug\netcoreapp3.1\GotoRemover.runtimeconfig.json
+C:\Users\Rolando\source\repos\GotoRemover\GotoRemover\bin\Debug\netcoreapp3.1\GotoRemover.runtimeconfig.dev.json
+C:\Users\Rolando\source\repos\GotoRemover\GotoRemover\bin\Debug\netcoreapp3.1\GotoRemover.dll
+C:\Users\Rolando\source\repos\GotoRemover\GotoRemover\bin\Debug\netcoreapp3.1\GotoRemover.pdb
+C:\Users\Rolando\source\repos\GotoRemover\GotoRemover\obj\Debug\netcoreapp3.1\GotoRemover.csprojAssemblyReference.cache
+C:\Users\Rolando\source\repos\GotoRemover\GotoRemover\obj\Debug\netcoreapp3.1\GotoRemover.AssemblyInfoInputs.cache
+C:\Users\Rolando\source\repos\GotoRemover\GotoRemover\obj\Debug\netcoreapp3.1\GotoRemover.AssemblyInfo.cs
+C:\Users\Rolando\source\repos\GotoRemover\GotoRemover\obj\Debug\netcoreapp3.1\GotoRemover.csproj.CoreCompileInputs.cache
+C:\Users\Rolando\source\repos\GotoRemover\GotoRemover\obj\Debug\netcoreapp3.1\GotoRemover.dll
+C:\Users\Rolando\source\repos\GotoRemover\GotoRemover\obj\Debug\netcoreapp3.1\GotoRemover.pdb
+C:\Users\Rolando\source\repos\GotoRemover\GotoRemover\obj\Debug\netcoreapp3.1\GotoRemover.genruntimeconfig.cache
